@@ -16,7 +16,11 @@ Starting with compiling a standard "Hello, world" application in C using the OS 
 
 Either follow the assignments at your own pace, or join the chat-room and share insights and ask questions.
 
-The group will progress at a steady pace, so ideally you would join early and stick with the program as by the end of it there will be less discussion involving basics and instead lean more towards advanced topics, as the group will then have acquired a sufficient amount of knowledge to venture on.
+- [Chat room](https://gitter.im/learnclang)
+
+Someone will add you to the organisation once you've shown interest, and from there you can add your own projects and share your progress with others.
+
+> The group will progress at a steady pace, so ideally you would join early and stick with the program as by the end of it there will be less discussion involving basics and instead lean more towards advanced topics, as the group will then have acquired a sufficient amount of knowledge to venture on.
 
 ## Why learn C?
 
