@@ -1,7 +1,7 @@
-This organisation is for those interested in learning the C family of programming languages; primarily C and C++ along with interesting libraries, such as Qt and OpenGL, for use in computer generated graphics industries like Games and Film.
+This organisation is for those interested in learning the C family of programming languages for use in the production of Games and Film.
 
-For more information, have a look at the [Wiki][wiki]
+- [Wiki][wiki]
+- [Chat][chat]
 
-### [Wiki][wiki]
-
+[chat]: https://gitter.im/learnclang/general
 [wiki]: https://github.com/learnclang/about/wiki
