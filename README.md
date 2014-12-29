@@ -4,6 +4,8 @@ This organisation is for those interested in learning the C-family of programmin
 
 - [Wiki][wiki]
 - [Chat][chat]
+- [Learning Resources][res]
 
+[res]: https://github.com/learnclang/about/wiki/Resources
 [chat]: https://gitter.im/learnclang/general
 [wiki]: https://github.com/learnclang/about/wiki
