@@ -4,8 +4,12 @@ This organisation is for those interested in learning the C-family of programmin
 
 - [Wiki][wiki]
 - [Chat][chat]
+- [YouTube][yt]
+- [Twitch][twitch]
 - [Learning Resources][res]
 
+[yt]: https://www.youtube.com/channel/UCNoKnO8y1cnv8jfKnYCR5Zg
+[twitch]: http://www.twitch.tv/learnclang
 [res]: https://github.com/learnclang/about/wiki/Resources
 [chat]: https://gitter.im/learnclang/general
 [wiki]: https://github.com/learnclang/about/wiki
